@@ -21,7 +21,7 @@ $prof3 = new Profesor("aleksandra", "labus", "aleksandra@elab.rs", "aleksandra12
 $nizkorisnika = [$so, $sm, $sd, $prof1, $prof2, $prof3];
 $nizprof = [$prof1, $prof2, $prof3];
 
-$p1 = new Predmet("PHP", "php2022", "osnovne");
+$p1 = new Predmet("PHP", "php2022", "osnovne", "fon");
 $p2 = new Predmet("Baze", "baze2022", "osnovne");
 $p3 = new Predmet("JAVA", "java2022", "osnovne");
 $p4 = new Predmet("Blockchain", "bc2022", "doktorske");
